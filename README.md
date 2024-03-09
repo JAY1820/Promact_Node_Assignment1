@@ -7,7 +7,6 @@ Simple app to create & view users in `users.txt`
 - Welcome message (/)
 - User creation form (/create)
 - User list (/users)
-- Error handling
 
 **Start:**
 
@@ -17,3 +16,10 @@ Simple app to create & view users in `users.txt`
 4. `node server.js`
 
 **Access:** http://localhost:3000/
+
+**Routes:**
+
+- `/` - Welcome message
+- `/create` - User creation form
+- `/users` - User list
+
